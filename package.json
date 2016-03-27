@@ -1,15 +1,23 @@
 {
-  "name": "test",
+  "name": "asgerlaursen-test",
   "version": "1.0.0",
   "description": "This is a test project setting up NPM",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
-
   },
-  "author": "",
+  "author": "asgerlaursen",
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asgerlaursen/npmtest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asgerlaursen/npmtest/issues"
+  },
+  "homepage": "https://github.com/asgerlaursen/npmtest#readme"
 }
